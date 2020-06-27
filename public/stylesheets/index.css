@@ -1,0 +1,32 @@
+#profilePic{
+	max-width:1500px;
+	width:100%;
+	height:250px;
+	background:url("https://saul365.github.io/portafolio/images/compu.jpeg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+#profilePic img{
+	position: absolute;
+	top: 185px;
+	border-radius:100%;
+	border:solid #E9E6FF;
+}
+body{
+	background:#134611;
+	margin:0;
+}
+#containers{
+	max-width:1400px;
+	height:800px;
+	background:#E9E6FF; 
+	margin-top:9%;
+	margin-left:70px;
+	margin-right:70px;
+	border-radius:2%;
+}
+
